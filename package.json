@@ -1,5 +1,6 @@
 {
   "name": "tinymce-placeholder-attribute",
+  "version": "1.0.0",
   "description": "TinyMCE plugin for placeholder attribute support",
   "main": "placeholder/plugin.js",
   "scripts": {
